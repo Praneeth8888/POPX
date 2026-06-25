@@ -3,7 +3,7 @@
 A modern React application built with Vite, featuring user authentication and account management screens.
 
 ## 🔗 Live Demo
-[View Live](https://popx-praneeth8888.vercel.app)
+[[View Live](https://popx-praneeth8888.vercel.app)](https://popx-qo6naul65-praneeths-projects-72e8f7c0.vercel.app)
 
 ## 📸 Pages
 - Welcome Screen
